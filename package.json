@@ -24,9 +24,15 @@
     "cordova-plugin-device",
     "cordova-plugin-statusbar",
     "cordova-plugin-splashscreen",
-    "ionic-plugin-keyboard"
+    "ionic-plugin-keyboard",
+    {
+      "locator": "/Users/jessyang90/Desktop/MuzikHack/GitHub/cordova-plugin-muzik-master",
+      "id": "cordova-plugin-muzik"
+    }
   ],
-  "cordovaPlatforms": [],
+  "cordovaPlatforms": [
+    "android"
+  ],
   "name": "muzikhack",
   "description": "muzikHack: An Ionic project"
 }
